@@ -1,0 +1,13 @@
+a.menutext:active, a.menutext:hover, a.menutext:visited, a.menutext{text-decoration: none;font-size: x-large; font-weight: bold; color: rgb(23, 37, 42);}
+p.contacts{color: rgb(255, 102, 0); font-weight: bold; font-size: xx-large;}
+fieldset.borderstyle{border-color: rgb(255, 102, 0) !important;}
+img.borderstyle{border-color: rgb(255, 102, 0) !important;}
+
+.headercolor{background-color: rgb(92, 219, 149);}
+.maincolor{background-color: rgb(142, 228, 175);}
+.fontcolor{color: rgb(5, 56, 107);}
+.buttoncolor{background-color: rgb(5, 56, 107) !important;}
+.fontcolor1{color: rgb(142, 228, 175);}
+
+.bordercolortp, .bordercolortp:focus {border-color: transparent; resize: none; outline: none !important;}
+.textbreak{text-align: justify;}
